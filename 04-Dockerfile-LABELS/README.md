@@ -60,7 +60,7 @@ COPY index.html /usr/share/nginx/html
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>StackSimplify</title>
+  <title>DevOps Bootcamp</title>
   <style>
     body { 
       font-family: Arial, sans-serif; 
@@ -75,7 +75,7 @@ COPY index.html /usr/share/nginx/html
   </style>
 </head>
 <body>
-  <h1>Welcome to StackSimplify</h1>
+  <h1>Welcome to DevOps Bootcamp</h1>
   <h2>Dockerfile: Nginx Alpine Slim Docker Image with custom LABELS and OCI LABELS</h2>
   <p>Learn technology through practical, real-world demos.</p>
   <p>Application Version: v1</p>
