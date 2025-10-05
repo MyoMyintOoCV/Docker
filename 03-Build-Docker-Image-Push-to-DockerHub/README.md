@@ -115,7 +115,7 @@ COPY index.html /usr/share/nginx/html
   </style>
 </head>
 <body>
-  <h1>Welcome to StackSimplify</h1>
+  <h1>Welcome to DevOps Bootcamp</h1>
   <h2>Docker Image BUILD, RUN, TAG and PUSH to Docker Hub</h2>
   <p>Learn technology through practical, real-world demos.</p>
   <p>Application Version: v1</p>
